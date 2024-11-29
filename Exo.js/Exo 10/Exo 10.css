@@ -1,23 +1,23 @@
 .divA {
     width: 200px;
     height: 200px;
-    background-color: rgb(235, 252, 0);
+    background-color: rgb(175, 197, 238);
 }
 .divB {
     width: 200px;
     height: 200px;
-    background-color: rgb(231, 9, 9);
+    background-color: rgb(200, 0, 240);
     visibility: visible;
 }
 .divC {
     width: 200px;
     height: 200px;
-    background-color: rgb(42, 44, 165);
+    background-color: rgb(237, 255, 136);
 }
 .divD {
     width: 200px;
     height: 200px;
-    background-color: rgb(223, 4, 186);
+    background-color: rgb(110, 4, 4);
 }
 
 .invisible{
